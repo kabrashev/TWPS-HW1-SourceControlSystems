@@ -1,2 +1,7 @@
+<<<<<<< .mine
+Trying to make conflict.
+321||||||| .r7
+Trying to make conflict.=======
 Trying to make conflict.
 ->>>>Somthing new
+>>>>>>> .r8

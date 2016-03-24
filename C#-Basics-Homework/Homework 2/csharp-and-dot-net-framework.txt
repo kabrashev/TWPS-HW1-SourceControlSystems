@@ -1,0 +1,3 @@
+C# and .NETFramework are two very different things. First of them is a programming language, that it is used for writing code
+.NETFramework is a platform for execution .NET programs. .NETFramework is a common execution engine for many languages - C#, C++, Visual Basic.
+Programming language C# is a part of .NetFramework.
